@@ -1,0 +1,7 @@
+id=Hotter flyme
+name=屏蔽Flyme温控
+version=1.0
+versionCode=202401
+author=Coolapk@卷猫
+description=Flyme10适用的温控屏蔽模块，为Motorola S30 Pro提供额外支持。
+minMagisk=23000
